@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+        <data_row>
+            <hospitalid>581</hospitalid>
+            <hospitalname>嘉峪关市中医院</hospitalname>
+            <deptcode>0000000301</deptcode>
+            <inputcode>WKMZ</inputcode>
+            <deptname>外科门诊</deptname>
+            <deptsmallpicurl></deptsmallpicurl>
+            <deptmiddlepicurl></deptmiddlepicurl>
+            <deptbigpicurl></deptbigpicurl>
+            <deptdes>无</deptdes>
+            <parentid>0</parentid>
+            <deptlevel>1</deptlevel>
+            <location>无</location>
+            <ordernum>0</ordernum>
+            <createtime>2020-07-01 14:31:02</createtime>
+            <lastmodify>2020-07-03 04:00:03</lastmodify>
+        </data_row>
+
+</response>
